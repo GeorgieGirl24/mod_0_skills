@@ -1,0 +1,10 @@
+food = "tacos"
+is_delicious = true
+food = "salad"
+num2 = 24
+num7 = 56
+quotient = num7 / num2
+songs = ["Mary Had A Little Lamb", "Runner", "Jolene", "Bad Moon Rising"]
+
+songs.shift
+food.length
